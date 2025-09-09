@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../html/html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "comp"
+	}
+}
